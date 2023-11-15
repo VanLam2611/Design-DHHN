@@ -434,6 +434,11 @@ body{
     .post__builder-univercity .wrapper__section .main__sub__header{
         font-size: 22px;
     }
+
+    .post__builder-univercity .section__content .main__content p,
+    .post__builder-univercity .section__content .main__content p.italic-20{
+        line-height: 22px;
+    }
 }
 
 @media screen and (max-width: 375.98px) {
